@@ -1,4 +1,4 @@
-| ##Country      | Capital    | ##Currency Symbol| ##Population    |
+| ## Country      | ## Capital    | ## Currency Symbol| ## Population    |
 | --------       | -------    |   -------        |    -------      |
 | United States  | Washington |   USD            |   331002651     |
 | Japan          | Tokyo      |   YEN            |   126476461     |  
