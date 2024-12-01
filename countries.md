@@ -1,4 +1,4 @@
-| <h1> Country </h1>  | ## Capital    | ## Currency Symbol | ## Population    |
+| <h1> Country </h1>  | <h1> Capital  </h1>  | <h1> Currency Symbol </h1> | <h1> Population  </h1>  |
 | --------       | -------    |   -------        |    -------      |
 | United States  | Washington |   USD            |   331002651     |
 | Japan          | Tokyo      |   YEN            |   126476461     |  
