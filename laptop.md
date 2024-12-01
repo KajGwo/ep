@@ -1,4 +1,4 @@
-##Laptop##
+##Laptop
 A laptop computer or notebook computer, also known as a laptop or notebook, is a small, 
 portable personal computer (PC). Laptops typically have a clamshell form factor with a flat-panel screen 
 on the inside of the upper lid and an alphanumeric keyboard and pointing device on the inside of the lower lid.
@@ -52,7 +52,7 @@ The earliest laptops most often used floppy disk for storage, although a few use
 Between 1990 and 2009, almost all laptops typically had a hard disk drive (HDD) for storage; since then, solid-state drives (SSD) have gradually come to supplant hard drives in all but some inexpensive consumer models. Solid-state drives are faster and more power-efficient, as well as eliminating the hazard of drive and data corruption caused by a laptop's physical impacts, as they use no mechanical parts such as a rotational platter.[57] In many cases, they are more compact as well. Initially, in the late 2000s, SSDs were substantially more expensive than HDDs, but as of 2021 prices on smaller capacity (under 1 terabyte) drives have converged; larger capacity drives remain more expensive than comparable-sized HDDs. 
 
 
-##List##
+##List
 1._Lenovo_
 2._Apple_
 3._ASUS_
