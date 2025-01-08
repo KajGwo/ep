@@ -19,8 +19,8 @@ Rugged laptop A rugged laptop is designed to reliably operate in harsh usage con
 <p>In general, laptop components are not intended to be replaceable or upgradable by the end-user, except for components that can be detached; in the past, batteries and optical drives were commonly exchangeable. Some laptops feature socketed processors with sockets such as the Socket G2, but many laptops use processors that are soldered to the motherboard. Many laptops come with RAM and storage that is soldered to the motherboard and cannot be easily replaced. This restriction is one of the major differences between laptops and desktop computers, because the large "tower" cases used in desktop computers are designed so that new motherboards, hard disks, sound cards, RAM, and other components can be added. Memory and storage can often be upgraded with some disassembly, but with the most compact laptops, there may be no upgradeable components at all.[49]</p> 
 
 <ol>
-<li> GPU </li>
-<li> CPU </li>
+<li> [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) </li>
+<li> [CPU](https://en.wikipedia.org/wiki/Central_processing_unit) </li>
 <li> Screen </li>
 <li> RAM </li>
 <li> Storage </li>
